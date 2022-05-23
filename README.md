@@ -1,0 +1,1 @@
+"en 1980 la ciudad a tenia 3.5 millones de habitantes y una rata de crecimiento del 7% anual y la ciudad b tenia 5 millones y una rata de crecimiento del 5% anual, si el crecimiento poblacional se mantiene constante en las 2 ciudades, hacer diagrama y programa que calcule e imprima en que año la poblacion de la ciudad a es mayor que la de la ciudad b"
